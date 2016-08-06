@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github\AndFixDebug\AndFixDemo\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bacc0459963ff4b9d1cc4621218c2286a62ef123">
+        <dex dex="D:\github\AndFixDebug\AndFixDemo\build\intermediates\pre-dexed\debug\classes-6ab483136d8ac9a8d09da3e005273e4da3286c3b.jar" />
+    </item>
+
+</items>
